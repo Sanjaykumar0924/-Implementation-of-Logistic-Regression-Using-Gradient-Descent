@@ -18,8 +18,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Rahul V
-RegisterNumber: 212223040163
+Developed by: Ragavan E
+RegisterNumber: 212223040160
 */
 import pandas as pd
 import numpy as np
@@ -72,9 +72,11 @@ print("Predicted Result:",y_prednew)
 ```
 
 ## Output:
-ACCURACY,ACTUAL AND PREDICTED VALUES:
+## ACCURACY,ACTUAL AND PREDICTED VALUES:
+
 ![image](https://github.com/user-attachments/assets/ea3c326b-9ddf-43ae-9e08-df3d7766bf39)
-PREDICTED RESULT:
+
+## PREDICTED RESULT:
 ![image](https://github.com/user-attachments/assets/2d4e74d8-a35d-4efd-a390-50a2943a9ee3)
 
 
